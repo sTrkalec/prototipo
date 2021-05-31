@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+}
+header{
+    background: green;
+    text-align: center;
+    box-shadow: 10px 5px 15px green;
+    padding-top: 30px 30px;
+}
+.logo{
+    height: 100px;
+}
+figure{
+    text-align: center;
+    margin-top: 20px;
+    
+}
+.img{
+    padding-top: 40px;
+    max-width: 840px;   /* Máximo da largura da imagem */
+    width: 100%;
+    max-height: 560px;  /* Máximo da altura da imagem */
+    min-height: auto;      /* Mínimo da altura, por padrão “auto” */
+    
+   
+}
+figcaption{
+    margin-left: 28%;
+    margin-right: 28%;
+    font-size:20px;
+    border: 1px solid black;
+    margin-top: 10px;
+    background-color: green;
+    font-weight: bold;
+}
+a{
+
+    text-decoration: none;
+    padding: 10px;
+    background-color: green;
+    margin-left: 20px;
+    font-weight: bold;
+    color: black;
+
+}
+
+a:hover{
+    background-color: grey;
+}
+
+p{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 20px;
+}
