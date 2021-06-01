@@ -15,17 +15,11 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-
-
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
-
-## 💻 Projeto
-
-O dev.finances é uma tela de banco criada pela maratona da Rocketseat
 
 ## :memo: Licença
 
